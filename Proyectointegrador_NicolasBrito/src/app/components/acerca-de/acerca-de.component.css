@@ -1,0 +1,13 @@
+.row{
+    padding: 20px;
+}
+div{
+    background-color: rgb(58, 0, 71);
+    text-align: center;
+}
+p{
+    color: rgb(255, 255, 255);
+}
+span{
+    color: rgb(255, 255, 255);
+}
