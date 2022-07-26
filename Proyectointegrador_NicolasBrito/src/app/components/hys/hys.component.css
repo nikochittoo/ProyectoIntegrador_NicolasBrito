@@ -1,14 +1,5 @@
-* {
-    font-family: open sans;
-    background-color: rgb(102, 44, 102);
-}
-#experiencia {
-    color: white;
-}
 .row{
-    padding: 15px;
-}
-h1, h3{
-    display: inline;
-    padding-left: 10px;
+    background-color: rgb(102, 44, 102);
+    padding: 20px;
+    color: white;
 }
